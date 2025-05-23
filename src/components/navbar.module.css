@@ -1,0 +1,65 @@
+
+.pic1{
+    width: 50px;
+    display: inline;
+
+}
+
+.div1{
+    margin-left: 550px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.dove1{
+    margin-left: 850px;
+    margin-top: 20px;
+    cursor: pointer; 
+}
+.div2{
+    margin-left: 50px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.home{
+    display: inline;
+    font-size: 21px;
+    font-weight: 900;
+    margin-left: 8px;
+    /* color: rgb(34, 73, 87); */
+    color: rgb(112, 100, 229);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.signin{
+    display: inline;
+    font-size: 21px;
+    font-weight: 900;
+    margin-left: 8px;
+    /* color: rgb(34, 73, 87); */
+    color: rgb(112, 100, 229);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.pic2{
+    width: 50px;
+    display: inline;
+    cursor: pointer;
+}
+
+.nav{
+    /* border: 1px solid black; */
+    display: inline-flex;
+    width: 100%;
+    box-shadow: 0 0 2px rgb(51, 47, 40);
+}
+
+.head{
+    margin-left: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: rgb(112, 100, 229);
+}
+

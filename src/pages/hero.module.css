@@ -1,0 +1,146 @@
+.form{
+    width: 370px;
+    height: 60px;
+    border-color: rgb(112, 100, 229);
+    border-radius: 4%;
+    font-size: 22px;
+    font-weight: 500;
+    background-color: rgb(244,246,248);
+    padding-left: 10px;
+}
+
+.fo{
+    margin-left: 38%;
+    margin-top: 30px;
+}
+
+.aside{
+    /* border: 1px solid black; */
+    background-color: rgb(240, 240, 252);
+    width: 18%;
+    border-radius: 5%;
+    position: fixed;
+    margin-left: 8px;
+    margin-top: 60px;
+}
+
+.filt{
+    text-align: center;
+    margin-top: 30px !important;
+    font-size: 20px;
+    font-weight: 900;
+    color: rgb(37, 76,89 );
+    padding-top: 10px;
+}
+
+.pri{
+    display: block;
+    text-align: center;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.range{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 23px;
+    width: 75%;
+}
+
+.cat{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.check{
+    text-align: center;
+    /* margin-left: 10px; */
+    font-size: 17px;
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+.box{
+    margin-left: 10px;
+    width: 40px;
+    margin-top: 5px;
+}
+
+
+.outer{
+    margin-left: 17%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2%;
+    
+    display: flex;
+    width: 83%;
+   
+
+
+}
+
+.flew{
+    margin-left: 50px;
+    border-color: rgb(112, 100, 229);
+    box-shadow: 0 0 1px rgb(112, 100, 229);
+    border-radius: 5%;
+    width: 27%;
+    margin-top: 20px;
+}
+
+.pic{
+    width: 300px;
+    padding: 20px;
+    margin-left: 10px;
+    height: 412px;
+   justify-content: center;
+   display: flex;
+}
+
+.btn{
+    text-align: center;
+    width: 80%;
+    background-color: rgb(112, 100, 229);
+    border-color: rgb(112, 100, 229);
+    box-shadow: 0 0 2px rgb(112, 100, 229);
+    height: 60px;
+    color: white;
+    font-size: 21px;
+    font-weight: 700;
+    margin-left: 10%;
+    margin-bottom: 20px;
+    border-radius:10%;
+    border-color: white;
+}
+
+.btn:hover{
+    background-color: white;
+    border-color: rgb(112, 100, 229);
+    color: rgb(112, 100, 229);
+}
+
+.price{
+    font-size: 26px;
+    font-weight: 900;
+    color: rgb(34, 73, 87);    
+    margin-left: 15px ;
+
+    
+}
+
+.naem{
+    color: rgb(34, 73, 87);
+    font-size: 21px;
+    font-weight: 700;
+    margin-left: 15px ;
+}
+
+.picture{
+    width: 100%;
+    /* height: 100%; */
+   display: block;
+   margin: auto;
+}
